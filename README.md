@@ -20,59 +20,57 @@ This repository is a simple record of some certificates and badges I’ve earned
 ◆ Pre-Security (2025)  
 ◆ Advent of Cyber — 24 Cybersecurity Challenges (2025)  
 ◆ Industrial Intrusion CTF (2025)
-
-###  TryHackMe Badge Wall
+### TryHackMe Badge Wall
 
 <p align="left">
-  <img src="badges/tryhackme/badge01.png" width="95"/>
-  <img src="badges/tryhackme/badge02.png" width="95"/>
-  <img src="badges/tryhackme/badge03.png" width="95"/>
-  <img src="badges/tryhackme/badge04.png" width="95"/>
-  <img src="badges/tryhackme/badge05.png" width="95"/>
-  <img src="badges/tryhackme/badge06.png" width="95"/>
+  <img src="badges/tryhackme/badge01.png" width="110"/>
+  <img src="badges/tryhackme/badge02.png" width="110"/>
+  <img src="badges/tryhackme/badge03.png" width="110"/>
+  <img src="badges/tryhackme/badge04.png" width="110"/>
+  <img src="badges/tryhackme/badge05.png" width="110"/>
+  <img src="badges/tryhackme/badge06.png" width="110"/>
 </p>
 
 <p align="left">
-  <img src="badges/tryhackme/badge07.png" width="95"/>
-  <img src="badges/tryhackme/badge08.png" width="95"/>
-  <img src="badges/tryhackme/badge09.png" width="95"/>
-  <img src="badges/tryhackme/badge10.png" width="95"/>
-  <img src="badges/tryhackme/badge11.png" width="95"/>
-  <img src="badges/tryhackme/badge12.png" width="95"/>
+  <img src="badges/tryhackme/badge07.png" width="110"/>
+  <img src="badges/tryhackme/badge08.png" width="110"/>
+  <img src="badges/tryhackme/badge09.png" width="110"/>
+  <img src="badges/tryhackme/badge10.png" width="110"/>
+  <img src="badges/tryhackme/badge11.png" width="110"/>
+  <img src="badges/tryhackme/badge12.png" width="110"/>
 </p>
 
 <p align="left">
-  <img src="badges/tryhackme/badge13.png" width="95"/>
-  <img src="badges/tryhackme/badge14.png" width="95"/>
-  <img src="badges/tryhackme/badge15.png" width="95"/>
-  <img src="badges/tryhackme/badge16.png" width="95"/>
-  <img src="badges/tryhackme/badge17.png" width="95"/>
-  <img src="badges/tryhackme/badge18.png" width="95"/>
+  <img src="badges/tryhackme/badge13.png" width="110"/>
+  <img src="badges/tryhackme/badge14.png" width="110"/>
+  <img src="badges/tryhackme/badge15.png" width="110"/>
+  <img src="badges/tryhackme/badge16.png" width="110"/>
+  <img src="badges/tryhackme/badge17.png" width="110"/>
+  <img src="badges/tryhackme/badge18.png" width="110"/>
 </p>
 
 <p align="left">
-  <img src="badges/tryhackme/badge19.png" width="95"/>
-  <img src="badges/tryhackme/badge20.png" width="95"/>
-  <img src="badges/tryhackme/badge21.png" width="95"/>
-  <img src="badges/tryhackme/badge22.png" width="95"/>
-  <img src="badges/tryhackme/badge23.png" width="95"/>
-  <img src="badges/tryhackme/badge24.png" width="95"/>
+  <img src="badges/tryhackme/badge19.png" width="110"/>
+  <img src="badges/tryhackme/badge20.png" width="110"/>
+  <img src="badges/tryhackme/badge21.png" width="110"/>
+  <img src="badges/tryhackme/badge22.png" width="110"/>
+  <img src="badges/tryhackme/badge23.png" width="110"/>
+  <img src="badges/tryhackme/badge24.png" width="110"/>
 </p>
 
 <p align="left">
-  <img src="badges/tryhackme/badge25.png" width="95"/>
-  <img src="badges/tryhackme/badge26.png" width="95"/>
-  <img src="badges/tryhackme/badge27.png" width="95"/>
-  <img src="badges/tryhackme/badge28.png" width="95"/>
-  <img src="badges/tryhackme/badge29.png" width="95"/>
-  <img src="badges/tryhackme/badge30.png" width="95"/>
+  <img src="badges/tryhackme/badge25.png" width="110"/>
+  <img src="badges/tryhackme/badge26.png" width="110"/>
+  <img src="badges/tryhackme/badge27.png" width="110"/>
+  <img src="badges/tryhackme/badge28.png" width="110"/>
+  <img src="badges/tryhackme/badge29.png" width="110"/>
+  <img src="badges/tryhackme/badge30.png" width="110"/>
 </p>
 
 <p align="left">
-  <img src="badges/tryhackme/badge31.png" width="95"/>
-  <img src="badges/tryhackme/badge32.png" width="95"/>
+  <img src="badges/tryhackme/badge31.png" width="110"/>
+  <img src="badges/tryhackme/badge32.png" width="110"/>
 </p>
-
 
 
 

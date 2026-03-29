@@ -1,25 +1,35 @@
-# Certification-Hub
-This repository is a simple record of some certificates and badges I’ve earned while learning. It’s not everything I know, but it’s a way to keep track of my progress and stay motivated to keep improving.
+# Certification Hub
 
+A simple record of some certificates and badges I've earned while learning. It's not everything I know, but it's a way to keep track of my progress and stay motivated to keep improving.
 
-###  Courses & Professional Tracks :
+---
 
-◆ Professional Certificate — Google UX Design  
-◆ Professional Certificate — Google Cybersecurity  
-◆ Introduction to Cybersecurity — Cisco (2025)  
-◆ JavaScript Essentials 1 — Cisco (2025)  
-◆ Getting Started with Cisco Packet Tracer — Cisco (2025)  
-◆ GEMINI Certified Student (2025)  
-◆ Computer Hardware Basics — Cisco (2026)
+## Courses & Professional Tracks
 
+| Certificate | Year |
+|---|---|
+| Professional Certificate — Google UX Design |  |
+| Professional Certificate — Google Cybersecurity |  |
+| Introduction to Cybersecurity — Cisco | 2025 |
+| JavaScript Essentials 1 — Cisco | 2025 |
+| Getting Started with Cisco Packet Tracer — Cisco | 2025 |
+| GEMINI Certified Student | 2025 |
+| Computer Hardware Basics — Cisco | 2026 |
+| CDTH — Cyber Defense & Threat Hunting Completion | 2026 |
 
+---
 
-###  TryHackMe Paths 
+## TryHackMe Paths
 
-◆ Cybersecurity 101 (2026)  
-◆ Pre-Security (2025)  
-◆ Advent of Cyber — 24 Cybersecurity Challenges (2025)  
-◆ Industrial Intrusion CTF (2025)
+| Path / Challenge | Year |
+|---|---|
+| Pre-Security | 2025 |
+| Advent of Cyber — 24 Cybersecurity Challenges | 2025 |
+| Industrial Intrusion CTF | 2025 |
+| Cybersecurity 101 | 2026 |
+| Web Fundamentals | 2026 |
+| Jr. Penetration Tester | 2026 |
+
 ### TryHackMe Badge Wall
 
 <p align="left">

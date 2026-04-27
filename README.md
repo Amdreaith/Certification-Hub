@@ -1,100 +1,109 @@
-# Certification Hub
+<div align="center">
 
-A simple record of some certificates and badges I've earned while learning. It's not everything I know, but it's a way to keep track of my progress and stay motivated to keep improving.
+# 🏛️ Certification Hub
+
+A collection of professional certifications and specialized training tracks documenting my technical evolution in Cybersecurity and Design.
+
+
 
 ---
 
-## Courses & Professional Tracks
 
-| Certificate | Year |
-|---|---|
-| Professional Certificate — Google UX Design |  |
-| Professional Certificate — Google Cybersecurity |  |
-| Introduction to Cybersecurity — Cisco | 2025 |
-| JavaScript Essentials 1 — Cisco | 2025 |
-| Getting Started with Cisco Packet Tracer — Cisco | 2025 |
-| GEMINI Certified Student | 2025 |
-| Computer Hardware Basics — Cisco | 2026 |
-| CDTH — Cyber Defense & Threat Hunting Completion | 2026 |
 
----
+##  Professional Certifications & Tracks
 
-## TryHackMe Paths
+| Credential | Issuer | Year |
+| :---: | :---: | :---: |
+| **Google Cybersecurity Professional Certificate** | Google | 2025 |
+| **Google UX Design Professional Certificate** | Google | 2025 |
+| **CDTH — Cyber Defense & Threat Hunting Completion** | - | 2026 |
+| **Introduction to Cybersecurity** | Cisco | 2025 |
+| **JavaScript Essentials 1** | Cisco | 2025 |
+| **Getting Started with Cisco Packet Tracer** | Cisco | 2025 |
+| **Computer Hardware Basics** | Cisco | 2026 |
+| **GEMINI Certified Student** | Google | 2025 |
 
-| Path / Challenge | Year |
-|---|---|
-| Pre-Security | 2025 |
-| Advent of Cyber — 24 Cybersecurity Challenges | 2025 |
-| Industrial Intrusion CTF | 2025 |
-| Cybersecurity 101 | 2026 |
-| Web Fundamentals | 2026 |
-| Jr. Penetration Tester | 2026 |
+<br />
 
-### TryHackMe Badge Wall
+##  TryHackMe Offensive & Defensive Paths
 
-<p align="left">
-  <img src="badges/tryhackme/badge01.png" width="110"/>
-  <img src="badges/tryhackme/badge02.png" width="110"/>
-  <img src="badges/tryhackme/badge03.png" width="110"/>
-  <img src="badges/tryhackme/badge04.png" width="110"/>
-  <img src="badges/tryhackme/badge05.png" width="110"/>
-  <img src="badges/tryhackme/badge06.png" width="110"/>
+| Specialized Path / CTF | Status | Year |
+| :---: | :---: | :---: |
+| **Jr. Penetration Tester** | Completed | 2026 |
+| **Web Fundamentals** | Completed | 2026 |
+| **Cybersecurity 101** | Completed | 2026 |
+| **Advent of Cyber** | Completed | 2025 |
+| **Industrial Intrusion CTF** | Captured | 2025 |
+| **Pre-Security** | Completed | 2025 |
+
+</div>
+
+<h2 align="center"> Badges </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5930d42d-9ff0-4e85-b149-3dddd2975964" height="80" alt="UI/UX" />
+  <img src="https://github.com/user-attachments/assets/2dc71a8b-c0cc-4445-bb04-acad397fac5d" height="100" alt="Specialty" />
+  <img src="https://github.com/user-attachments/assets/1f7e69f7-341f-4a01-965d-e37e6f6b8863" height="70" alt="Tech 1" />
+  <img src="https://github.com/user-attachments/assets/63989ef9-a827-41b3-a199-0b82e7f73ec0" height="70" alt="Achievement" />
+  <img src="https://github.com/user-attachments/assets/42139d2f-489a-473a-84e5-5a834ec07d2c" height="70" alt="Tech 2" />
 </p>
 
-<p align="left">
-  <img src="badges/tryhackme/badge07.png" width="110"/>
-  <img src="badges/tryhackme/badge08.png" width="110"/>
-  <img src="badges/tryhackme/badge09.png" width="110"/>
-  <img src="badges/tryhackme/badge10.png" width="110"/>
-  <img src="badges/tryhackme/badge11.png" width="110"/>
-  <img src="badges/tryhackme/badge12.png" width="110"/>
+<br/>
+
+<h3 align="center"> TryHackMe Badge Wall</h3>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/YOUR_USERNAME">
+    <img src="badges/tryhackme/badge01.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge02.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge03.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge04.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge05.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge06.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge07.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge08.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge09.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge10.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge11.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge12.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge13.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge14.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge15.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge16.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge17.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge18.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge19.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge20.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge21.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge22.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge23.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge24.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge25.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge26.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge27.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge28.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge29.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge30.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge31.png" height="90" alt="THM Badge" />
+    <img src="badges/tryhackme/badge32.png" height="90" alt="THM Badge" />
+  </a>
+
+  
 </p>
 
-<p align="left">
-  <img src="badges/tryhackme/badge13.png" width="110"/>
-  <img src="badges/tryhackme/badge14.png" width="110"/>
-  <img src="badges/tryhackme/badge15.png" width="110"/>
-  <img src="badges/tryhackme/badge16.png" width="110"/>
-  <img src="badges/tryhackme/badge17.png" width="110"/>
-  <img src="badges/tryhackme/badge18.png" width="110"/>
-</p>
+##  Continuous Learning & Seminars
 
-<p align="left">
-  <img src="badges/tryhackme/badge19.png" width="110"/>
-  <img src="badges/tryhackme/badge20.png" width="110"/>
-  <img src="badges/tryhackme/badge21.png" width="110"/>
-  <img src="badges/tryhackme/badge22.png" width="110"/>
-  <img src="badges/tryhackme/badge23.png" width="110"/>
-  <img src="badges/tryhackme/badge24.png" width="110"/>
-</p>
+###  Cybersecurity & Defense
+* **HTB Online Meetup:** *Is your Cloud S3cure? Hardening AWS through Security Testing Tactics* (2025)
+* **Inside the Blue Team:** Community Talk (2025)
+* **Roles in Cybersecurity:** University Seminar (2025)
 
-<p align="left">
-  <img src="badges/tryhackme/badge25.png" width="110"/>
-  <img src="badges/tryhackme/badge26.png" width="110"/>
-  <img src="badges/tryhackme/badge27.png" width="110"/>
-  <img src="badges/tryhackme/badge28.png" width="110"/>
-  <img src="badges/tryhackme/badge29.png" width="110"/>
-  <img src="badges/tryhackme/badge30.png" width="110"/>
-</p>
+###  Development & Data
+* **SQL Backend:** University Seminar (2025)
+* **Web Development:** University Seminar (2025)
+* **Canva Natin To:** 5th Canva Webinar Workshop Series (2023)
 
-<p align="left">
-  <img src="badges/tryhackme/badge31.png" width="110"/>
-  <img src="badges/tryhackme/badge32.png" width="110"/>
-</p>
-
-
-
-##  Seminars & Community Learning
-
-◆ Canva Natin To: The 5th Canva Webinar Workshop Series (2023)  
-◆ Roles in Cybersecurity — University Seminar (2025)  
-◆ Web Development — University Seminar (2025)  
-◆ Life After Graduation — University Seminar (2025)  
-◆ Business Communication — University Seminar (2025)  
-◆ How to Build a Creative Portfolio — University Seminar (2025)  
-◆ SQL Backend — University Seminar (2025)  
-◆ HTB Online Meetup: *Is your Cloud S3cure? Hardening AWS through Security Testing Tactics* (2025)  
-◆ Inside the Blue Team — Community Talk (2025)
-
-
-
+###  Professional Development
+* **How to Build a Creative Portfolio:** University Seminar (2025)
+* **Business Communication:** University Seminar (2025)
+* **Life After Graduation:** University Seminar (2025)
